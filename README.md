@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muzammil Raza Khan</h1>
 <h3 align="center">A passionate Full Stack developer </h3>
 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muzammil6786&label=Profile%20views&color=0e75b6&style=flat" alt="muzammil6786" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muzammil6786" alt="muzammil6786" /></a> </p>
