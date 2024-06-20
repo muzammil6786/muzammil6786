@@ -8,7 +8,7 @@
 
 - 🔭I have collaborate on [GIIS-Clone](https://coding-guru-1234.netlify.app)
 
-- 👯 I have collaborate on [adamant-knowledge-2074](https://adamant-knowledge-2074.netlify.app)
+- 👯 I have collaborate on [EZ-docs](https://interface-ideal-2345.netlify.app)
 
 - 📫 How to reach me **khanmuzammil6786@gmail.com**
 
