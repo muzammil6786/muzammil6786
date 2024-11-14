@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **khanmuzammil6786@gmail.com**
 
-- 📄 Know about me [https://drive.google.com/file/d/1bNuyVcDAXc1J-Aw8_ZLrRHuX77lLHbZD/view?usp=share_link](https://drive.google.com/file/d/1bNuyVcDAXc1J-Aw8_ZLrRHuX77lLHbZD/view?usp=share_link)
+- 📄 Know about me [https://drive.google.com/file/d/1bNuyVcDAXc1J-Aw8_ZLrRHuX77lLHbZD/view?usp=share_link](https://drive.google.com/file/d/1kOEw4Ssk9jebeiKKDbZbDcbeID9BIkDN/view?usp=sharing)
 
 
 <h3 align="left">Connect with me:</h3>
