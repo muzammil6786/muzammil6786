@@ -1,5 +1,6 @@
+![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
 <h1 align="center">Hi 👋, I'm Muzammil Raza Khan</h1>
-<h3 align="center">A passionate Full Stack developer </h3>
+ <div ><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I+am+a+Node.js+Backend+Developer.;Committed+to+continous+learning." alt="Typing SVG" /></a></div>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muzammil6786&label=Profile%20views&color=0e75b6&style=flat" alt="muzammil6786" /> </p>
