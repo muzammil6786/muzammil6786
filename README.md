@@ -14,12 +14,16 @@
 
 - 📄 Know about me [https://drive.google.com/file/d/1bNuyVcDAXc1J-Aw8_ZLrRHuX77lLHbZD/view?usp=share_link](https://drive.google.com/file/d/1kOEw4Ssk9jebeiKKDbZbDcbeID9BIkDN/view?usp=sharing)
 
+<h5> Portfolio : https://muzammil6786.github.io/</h5>
+  
+  <h5> LeetCode : https://leetcode.com/u/khanmuzammil6786/</h5>
 
 <h3 align="left">Connect with me:</h3>
 
 <a href="https://www.linkedin.com/in/muzammil-raza-khan-524ba71a0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="30" width="40" /></a>
 <p align="left">
 </p>
+
 
 <h2 align="center">🚀 Languages and Tools: </h2>
  
