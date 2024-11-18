@@ -12,7 +12,6 @@
 
 <h5>🌐 Portfolio:  
 <a href="https://muzammil6786.github.io/">
-  <img align="center" src="https://img.icons8.com/ios-filled/50/000000/domain.png" alt="Portfolio" height="20" width="20" />
   muzammil6786.github.io
 </a>
 </h5>
