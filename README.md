@@ -2,28 +2,33 @@
 <h1 align="center">Hi 👋, I'm Muzammil Raza Khan</h1>
  <div ><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I+am+a+Node.js+Backend+Developer.;Committed+to+continous+learning." alt="Typing SVG" /></a></div>
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muzammil6786&label=Profile%20views&color=0e75b6&style=flat" alt="muzammil6786" /> </p>
 
 
-- 🔭I have collaborate on [GIIS-Clone](https://coding-guru-1234.netlify.app)
+- 🔭 I have collaborated on [GIIS-Clone](https://coding-guru-1234.netlify.app)  
+- 👯 I have collaborated on [EZ-docs](https://interface-ideal-2345.netlify.app)  
+- 📫 How to reach me: **khanmuzammil6786@gmail.com**  
+- 📄 Know about me: [Resume](https://drive.google.com/file/d/1kOEw4Ssk9jebeiKKDbZbDcbeID9BIkDN/view?usp=sharing)  
 
-- 👯 I have collaborate on [EZ-docs](https://interface-ideal-2345.netlify.app)
+<h5>🌐 Portfolio:  
+<a href="https://muzammil6786.github.io/">
+  <img align="center" src="https://img.icons8.com/ios-filled/50/000000/domain.png" alt="Portfolio" height="20" width="20" />
+  muzammil6786.github.io
+</a>
+</h5>
 
-- 📫 How to reach me **khanmuzammil6786@gmail.com**
-
-- 📄 Know about me [https://drive.google.com/file/d/1bNuyVcDAXc1J-Aw8_ZLrRHuX77lLHbZD/view?usp=share_link](https://drive.google.com/file/d/1kOEw4Ssk9jebeiKKDbZbDcbeID9BIkDN/view?usp=sharing)
-
-<h5> Portfolio : https://muzammil6786.github.io/</h5>
-  
-  <h5> LeetCode : https://leetcode.com/u/khanmuzammil6786/</h5>
+<h5>🖩 LeetCode:  
+<a href="https://leetcode.com/u/khanmuzammil6786/">
+  <img align="center" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="LeetCode" height="20" width="20" />
+  leetcode.com/u/khanmuzammil6786
+</a>
+</h5>
 
 <h3 align="left">Connect with me:</h3>
 
 <a href="https://www.linkedin.com/in/muzammil-raza-khan-524ba71a0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="30" width="40" /></a>
 <p align="left">
 </p>
-
 
 <h2 align="center">🚀 Languages and Tools: </h2>
  
@@ -41,7 +46,7 @@
 <img src="https://img.shields.io/badge/javascript%20-%23F7DF1.svg?&style=for-the-badge&logo=javascript&logoColor=white" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/SQL-4EA94B?style=for-the-badge&logo=Mongoose&logoColor=white" alt="Mongoose"/>
-<!-- <img src="https://img.shields.io/badge/mui-%231572B6.svg?style=for-the-badge&logo=mui&logoColor=white" />&nbsp;&nbsp; -->
+
  <br/>
  <img src="https://img.shields.io/badge/Mongoose-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white" align="center" alt="Mongoose"/>
   <img src="https://img.shields.io/badge/rest api-%23323330.svg?style=for-the-badge&logo=express&logoColor=white" align="center" alt="rest api"/>
@@ -61,34 +66,38 @@
   <br/>
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="vercel" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" alt="canva" />&nbsp;&nbsp;
-<!--   <img src="https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E" alt="prettier" />&nbsp;&nbsp; -->
 </p>
 
 </div>
 <br/>
-<hr>
 
 
-<h1>Github Stats</h1>
-<div class="statistics_container container grid" style="display: flex; flex-direction: row; justify-content: center; align-items: center; gap: 20px;">
-    <img id="github-stats-card"
-         src="https://github-readme-stats.vercel.app/api?username=muzammil6786"
-         alt="GitHub Stats Card"
-         style="margin: 10px 0;">
+<h2 align="center">📊 GitHub Statistics</h2>
 
-<img id="github-top-langs"
-         src="https://github-readme-stats.vercel.app/api/top-langs/?username=muzammil6786&langs_count=4&theme=city_light&include_all_commits=true&count_private=true&layout=compact"
-         alt="GitHub Top Languages"
-         style="margin: 10px 0;">
+<div align="center">
+ <p>
+  
 
-<img id="github-streak-stats"
-         src="https://github-readme-streak-stats.herokuapp.com/?user=muzammil6786&ring=5094f0&currStreakLabel=5094f0&fire=5094f0&theme=city_light"
-         alt="GitHub Streak Stats"
-         style="margin: 10px 0;">
-         
+  [![trophy](https://github-profile-trophy.vercel.app/?username=muzammil6786)](https://github.com/ryo-ma/github-profile-trophy)
+   </p>
+</div>
+
+<div align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=muzammil6786&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="muzammil6786" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=muzammil6786&show_icons=true&locale=en&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="muzammil6786" />
+    </td>
+  </tr>
+</div>
+
+<div align="center">
+  <p>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muzammil6786&theme=dark" alt="muzammil6786" />
+  </p>
 </div>
 
 
 
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muzammil6786" alt="muzammil6786" /></a> </p>
