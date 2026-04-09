@@ -1,6 +1,6 @@
 ![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
 <h1 align="center">Hi 👋, I'm Muzammil Raza Khan</h1>
- <div ><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I+am+a+Node.js+Backend+Developer.;Committed+to+continous+learning." alt="Typing SVG" /></a></div>
+ <div ><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Committed+to+continous+learning.;I+am+a+Node.js+Backend+Developer.;A+FullStack+Web+Developer." alt="Typing SVG" /></a></div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muzammil6786&label=Profile%20views&color=0e75b6&style=flat" alt="muzammil6786" /> </p>
 
@@ -74,22 +74,11 @@
 <h2 align="center">📊 GitHub Statistics</h2>
 
 <div align="center">
- <p>
-  
 
-  [![trophy](https://github-profile-trophy.vercel.app/?username=muzammil6786)](https://github.com/ryo-ma/github-profile-trophy)
-   </p>
-</div>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=muzammil6786&show_icons=true&theme=tokyonight" /><br/><br/>
 
-<div align="center">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=muzammil6786&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="muzammil6786" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=muzammil6786&show_icons=true&locale=en&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="muzammil6786" />
-    </td>
-  </tr>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=muzammil6786&layout=compact&theme=tokyonight" />
+
 </div>
 
 <div align="center">
@@ -100,7 +89,6 @@
   />
  </p>
 </div>
-
 
 
 
