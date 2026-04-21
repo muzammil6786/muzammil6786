@@ -4,7 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muzammil6786&label=Profile%20views&color=0e75b6&style=flat" alt="muzammil6786" /> </p>
 
-
 - 🔭 I have collaborated on [GIIS-Clone](https://coding-guru-1234.netlify.app)  
 - 👯 I have collaborated on [EZ-docs](https://interface-ideal-2345.netlify.app)  
 - 📫 How to reach me: **khanmuzammil6786@gmail.com**  
@@ -70,26 +69,24 @@
 </div>
 <br/>
 
-
 <h2 align="center">📊 GitHub Statistics</h2>
 
-<div align="center">
-
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=muzammil6786&show_icons=true&theme=tokyonight" /><br/><br/>
-
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=muzammil6786&layout=compact&theme=tokyonight" />
-
-</div>
-
-<div align="center">
- <p>
- <img 
-    src="https://streak-stats.demolab.com?user=muzammil6786&theme=transparent&hide_border=true&background=0,000000,130F40&ring=7A7ADB&fire=7A7ADB&currStreakLabel=7A7ADB&sideNums=D3D3D3&currStreakNum=D3D3D3&sideLabels=D3D3D3&dates=D3D3D3" 
-    alt="GitHub Streak Stats" 
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=muzammil6786&show_icons=true&theme=tokyonight&hide_border=true" 
+    height="170"
   />
- </p>
-</div>
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=muzammil6786&layout=compact&theme=tokyonight&hide_border=true" 
+    height="170"
+  />
+</p>
 
-
+<p align="center">
+  <img 
+    src="https://streak-stats.demolab.com?user=muzammil6786&theme=tokyonight&hide_border=true" 
+    height="170"
+  />
+</p>
 
 
