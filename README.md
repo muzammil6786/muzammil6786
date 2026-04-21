@@ -2,8 +2,6 @@
 <h1 align="center">Hi 👋, I'm Muzammil Raza Khan</h1>
  <div ><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Committed+to+continous+learning.;I+am+a+Node.js+Backend+Developer.;A+FullStack+Web+Developer." alt="Typing SVG" /></a></div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=muzammil6786&label=Profile%20views&color=0e75b6&style=flat" alt="muzammil6786" /> </p>
-
 - 🔭 I have build [ResuMate](https://resume-builder-pi-pearl.vercel.app/)  
 - 👯 I have collaborated on [EZ-docs](https://interface-ideal-2345.netlify.app)  
 - 📫 How to reach me: **khanmuzammil6786@gmail.com**  
