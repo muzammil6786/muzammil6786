@@ -70,14 +70,9 @@
 <h2 align="center">📊 GitHub Statistics</h2>
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=muzammil6786&show_icons=true&theme=tokyonight&hide_border=true" 
-    height="170"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=muzammil6786&layout=compact&theme=tokyonight&hide_border=true" 
-    height="170"
-  />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=muzammil6786&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=muzammil6786&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
