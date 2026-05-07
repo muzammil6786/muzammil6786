@@ -77,9 +77,8 @@
 
 <p align="center">
   <img 
-    src="https://streak-stats.demolab.com?user=muzammil6786&theme=tokyonight&hide_border=true" 
-    height="170"
-  />
+  src="https://streak-stats.demolab.com?user=muzammil6786&theme=tokyonight&hide_border=true&v=1" 
+/>
 </p>
 
 
